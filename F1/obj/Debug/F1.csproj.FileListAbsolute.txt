@@ -1,0 +1,10 @@
+F:\Fatemeh Sadeqi\نا آگاهانه\F1\bin\Debug\F1.exe.config
+F:\Fatemeh Sadeqi\نا آگاهانه\F1\bin\Debug\F1.exe
+F:\Fatemeh Sadeqi\نا آگاهانه\F1\bin\Debug\F1.pdb
+F:\Fatemeh Sadeqi\نا آگاهانه\F1\obj\Debug\F1.csprojAssemblyReference.cache
+F:\Fatemeh Sadeqi\نا آگاهانه\F1\obj\Debug\Test00.Form1.resources
+F:\Fatemeh Sadeqi\نا آگاهانه\F1\obj\Debug\F1.Properties.Resources.resources
+F:\Fatemeh Sadeqi\نا آگاهانه\F1\obj\Debug\F1.csproj.GenerateResource.cache
+F:\Fatemeh Sadeqi\نا آگاهانه\F1\obj\Debug\F1.csproj.CoreCompileInputs.cache
+F:\Fatemeh Sadeqi\نا آگاهانه\F1\obj\Debug\F1.exe
+F:\Fatemeh Sadeqi\نا آگاهانه\F1\obj\Debug\F1.pdb

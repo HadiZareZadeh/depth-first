@@ -1,0 +1,10 @@
+c:\users\00\source\repos\FC\FC\obj\Debug\FC.Form1.resources
+c:\users\00\source\repos\FC\FC\obj\Debug\FC.csproj.GenerateResource.cache
+c:\users\00\source\repos\FC\FC\obj\Debug\FC.csproj.CoreCompileInputs.cache
+C:\Users\00\source\repos\FC\FC\bin\Debug\Test00.exe.config
+C:\Users\00\source\repos\FC\FC\bin\Debug\Test00.exe
+C:\Users\00\source\repos\FC\FC\bin\Debug\Test00.pdb
+C:\Users\00\source\repos\FC\FC\obj\Debug\Test00.Properties.Resources.resources
+C:\Users\00\source\repos\FC\FC\obj\Debug\Test00.exe
+C:\Users\00\source\repos\FC\FC\obj\Debug\Test00.pdb
+C:\Users\00\source\repos\FC\FC\obj\Debug\FC.csprojAssemblyReference.cache
